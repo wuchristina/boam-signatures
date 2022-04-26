@@ -51,4 +51,4 @@
        tool that handles whatever you're doing properly.
 
 Good luck! Designing email signature sucks.
-- Christina's pocket developer
+> Christina's pocket developer
